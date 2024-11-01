@@ -42,3 +42,9 @@ Task {
 - Users must be **unique** in the database: By **firstname, lastname, dateOfBirth, and phone**.
 
 ---
+
+### Delivery (Must)
+
+Please clone this repository in a new GitHub repository in private mode and share with ID: `MuhammadKhalilzadeh` and `gorkem-bwl` in private mode on github.com, make sure you do not erase my commits and then create a pull request (code review).
+
+---
