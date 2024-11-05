@@ -38,7 +38,7 @@ Task {
 
 ## Validations
 
-- During Create; validate all the fields (You can use Google's **LibPhoneNumber** to validate mobile number).
+- During Create; validate all the fields (You can use Google's [**LibPhoneNumber**](https://github.com/google/libphonenumber) to validate mobile number).
 - Users must be **unique** in the database: By **firstname, lastname, dateOfBirth, and phone**.
 
 ---
